@@ -1,0 +1,13 @@
+# Log Format
+# ZCZC WEEK# MINUTES LogCode Description
+# LogCode: https://daffafaizan.github.io/os222/TXT/mylog.txt
+
+ZCZC W00 30 L00 GitHub related
+ZCZC W00 20 L01 GitHub Pages related
+ZCZC W00 40 L02 General, etc.
+ZCZC W00 25 L03 GitHub Pages related
+ZCZC W00 45 L04 Reading Assignments
+ZCZC W00 100 L05 Zoom Meetings
+ZCZC W00 45 L06 Reading slides.
+ZCZC W00 15 L07 SCELE checking.
+ZCZC W00 03 L08 Quiz taking.
