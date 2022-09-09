@@ -12,3 +12,4 @@ ZCZC W00 45 L06 Reading slides
 ZCZC W00 15 L07 SCELE checking
 ZCZC W00 03 L08 Quiz taking
 ZCZC W01 100 L09 Zoom Meetings
+ZCZC W01 100 L10 Zoom Meetings
