@@ -13,3 +13,4 @@ ZCZC W00 15 L07 SCELE checking
 ZCZC W00 03 L08 Quiz taking
 ZCZC W01 100 L09 Zoom Meetings
 ZCZC W01 100 L10 Zoom Meetings
+ZCZC W01 15 L11 SCELE checking
