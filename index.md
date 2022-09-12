@@ -7,7 +7,7 @@
 [GITHUB]({{ site.githublink}})
 <br>
 <br>
-Welcome to Iqbal's GitHub Page for Operating System Course!
+Welcome to Daffa's GitHub Page for Operating System Course!
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
