@@ -1,18 +1,15 @@
 ---
 permalink: LINKS/
 ---
-<span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
+<span style="color:DarkOrange; font-weight:bold; font-size:larger;">By {{ site.author }}💻</span>
 <br><br>
 [HOME]({{ site.baseurl }}/) ---
 [LINKS]({{ site.baseurl }}/LINKS/) ---
-[TIPS]({{ site.baseurl }}/TIPS/) ---
-[PUBLIC KEY]({{ site.baseurl }}{{ site.mypublickey }}) ---
-[LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
-[TARBALL](SandBox/daffafaizan.tar.xz) ---
+[LOG]({{ site.baseurl }}{{ site.loglink }}) ---
+ [TARBALL]({{ site.tblink }}) ---
 [GITHUB]({{ site.githublink }})
 <br>
 <hr>
-
 # LINKS
 
 <br>
@@ -20,4 +17,3 @@ permalink: LINKS/
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
 <hr>
 <br>
-
