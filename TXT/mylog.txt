@@ -17,3 +17,5 @@ ZCZC W01 15 L11 SCELE checking
 ZCZC W01 30 L12 Downloading and installing VirtualBox
 ZCZC W01 15 L13 Downloading and installing PUTTY and WinSCP
 ZCZC W01 30 L14 Configuring VirtualBox
+ZCZC W01 45 L15 Troubleshooting VirtualBox
+ZCZC W01 30 L16 Reading slides
