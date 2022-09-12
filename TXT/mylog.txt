@@ -19,3 +19,5 @@ ZCZC W01 15 L13 Downloading and installing PUTTY and WinSCP
 ZCZC W01 30 L14 Configuring VirtualBox
 ZCZC W01 45 L15 Troubleshooting VirtualBox
 ZCZC W01 30 L16 Reading slides
+ZCZC W01 90 L17 Finishing Assignment #2
+ZCZC W01 30 L18 Helping a friend with VirtualBox
