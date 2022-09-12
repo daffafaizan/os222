@@ -1,0 +1,10 @@
+version: "0001--12-Sep-2022"
+author: "daffafaizan"
+title: "OS222: Operating Systems 2022-2"
+githublink: "https://github.com/daffafaizan/os222"
+githubpagelink: "https://daffafaizan.github.io/os222/"
+tblink: "https://os.vlsm.org/Log/daffafaizan.tar.bz2.txt"
+loglink: "/TXT/mylog.txt"
+encoding: "UTF-8"
+copyright: "2022"
+github: [metadata]
