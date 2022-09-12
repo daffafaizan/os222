@@ -1,15 +1,18 @@
 ---
 permalink: LINKS/
 ---
-<span style="color:DarkOrange; font-weight:bold; font-size:larger;">By {{ site.author }}💻</span>
+<span style="color:red; font-weight:bold; font-size:larger;">By {{ site.author }}</span>
 <br><br>
 [HOME]({{ site.baseurl }}/) ---
 [LINKS]({{ site.baseurl }}/LINKS/) ---
-[LOG]({{ site.baseurl }}{{ site.loglink }}) ---
- [TARBALL]({{ site.tblink }}) ---
+[TIPS]({{ site.baseurl }}/TIPS/) ---
+[PUBLIC KEY]({{ site.baseurl }}{{ site.mypublickey }}) ---
+[LOG]({{ site.baseurl }}{{ site.myloglink }}) ---
+[TARBALL](SandBox/daffafaizan.tar.xz) ---
 [GITHUB]({{ site.githublink }})
 <br>
 <hr>
+
 # LINKS
 
 1. [One](https://wiki.debian.org/ShellCommands)<br>
