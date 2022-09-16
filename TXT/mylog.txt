@@ -22,3 +22,5 @@ ZCZC W01 30 L16 Reading slides
 ZCZC W01 90 L17 Finishing Assignment #2
 ZCZC W01 30 L18 Helping a friend with VirtualBox
 ZCZC W02 15 L19 SCELE checking
+ZCZC W02 45 L20 Reading slides
+ZCZC W02 60 L21 Watching videos
