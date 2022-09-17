@@ -25,3 +25,4 @@ ZCZC W02 15 L19 SCELE checking
 ZCZC W02 45 L20 Reading slides
 ZCZC W02 60 L21 Watching videos
 ZCZC W02 45 L22 Finishing Assignment #3
+ZCZC W02 15 L23 SCELE checking
