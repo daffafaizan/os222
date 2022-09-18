@@ -2,28 +2,28 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://daffafaizan.github.io/os222/TXT/mylog.txt
 
-ZCZC W00 30 L00 GitHub related
-ZCZC W00 20 L01 GitHub Pages related
-ZCZC W00 40 L02 General, etc
-ZCZC W00 25 L03 GitHub Pages related
-ZCZC W00 45 L04 Reading Assignments
-ZCZC W00 100 L05 Zoom Meetings
-ZCZC W00 45 L06 Reading slides
-ZCZC W00 15 L07 SCELE checking
-ZCZC W00 03 L08 Quiz taking
-ZCZC W01 100 L09 Zoom Meetings
-ZCZC W01 100 L10 Zoom Meetings
-ZCZC W01 15 L11 SCELE checking
-ZCZC W01 30 L12 Downloading and installing VirtualBox
-ZCZC W01 15 L13 Downloading and installing PUTTY and WinSCP
-ZCZC W01 30 L14 Configuring VirtualBox
-ZCZC W01 45 L15 Troubleshooting VirtualBox
-ZCZC W01 30 L16 Reading slides
-ZCZC W01 90 L17 Finishing Assignment #2
-ZCZC W01 30 L18 Helping a friend with VirtualBox
-ZCZC W02 15 L19 SCELE checking
-ZCZC W02 45 L20 Reading slides
-ZCZC W02 60 L21 Watching videos
-ZCZC W02 45 L22 Finishing Assignment #3
-ZCZC W02 15 L23 SCELE checking
-ZCZC W02 30 L24 Studying
+ZCZC W00 30 L03 GitHub related
+ZCZC W00 20 L04 GitHub Pages related
+ZCZC W00 40 L00 General, etc
+ZCZC W00 25 L04 GitHub Pages related
+ZCZC W00 45 L09 Reading Assignments
+ZCZC W00 100 L02 Zoom Meetings
+ZCZC W00 45 L05 Reading slides
+ZCZC W00 15 L01 SCELE checking
+ZCZC W00 03 L05 Quiz taking
+ZCZC W01 100 L02 Zoom Meetings
+ZCZC W01 100 L12 Zoom Meetings
+ZCZC W01 15 L01 SCELE checking
+ZCZC W01 30 L61 Downloading and installing VirtualBox
+ZCZC W01 15 L27 Downloading and installing PUTTY and WinSCP
+ZCZC W01 30 L61 Configuring VirtualBox
+ZCZC W01 45 L61 Troubleshooting VirtualBox
+ZCZC W01 30 L05 Reading slides
+ZCZC W01 90 L12 Finishing Assignment #2
+ZCZC W01 30 L64 Helping a friend with VirtualBox
+ZCZC W02 15 L01 SCELE checking
+ZCZC W02 45 L05 Reading slides
+ZCZC W02 60 L06 Watching videos
+ZCZC W02 45 L13 Finishing Assignment #3
+ZCZC W02 15 L01 SCELE checking
+ZCZC W02 30 L05 Studying
