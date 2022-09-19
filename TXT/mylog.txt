@@ -10,9 +10,9 @@ ZCZC W00 45 L09 Reading Assignments
 ZCZC W00 100 L02 Zoom Meetings
 ZCZC W00 45 L05 Reading slides
 ZCZC W00 15 L01 SCELE checking
-ZCZC W00 03 L05 Quiz taking
+ZCZC W00 3 L05 Quiz taking
 ZCZC W01 100 L02 Zoom Meetings
-ZCZC W01 100 L12 Zoom Meetings
+ZCZC W01 100 L02 Zoom Meetings
 ZCZC W01 15 L01 SCELE checking
 ZCZC W01 30 L61 Downloading and installing VirtualBox
 ZCZC W01 15 L27 Downloading and installing PUTTY and WinSCP
@@ -21,9 +21,14 @@ ZCZC W01 45 L61 Troubleshooting VirtualBox
 ZCZC W01 30 L05 Reading slides
 ZCZC W01 90 L12 Finishing Assignment #2
 ZCZC W01 30 L64 Helping a friend with VirtualBox
+ZCZC W02 100 L02 Zoom Meetings
 ZCZC W02 15 L01 SCELE checking
 ZCZC W02 45 L05 Reading slides
+ZCZC W02 100 L02 Zoom Meetings
 ZCZC W02 60 L06 Watching videos
 ZCZC W02 45 L13 Finishing Assignment #3
 ZCZC W02 15 L01 SCELE checking
+ZCZC W02 45 L13 Finishing Assignment #3
 ZCZC W02 30 L05 Studying
+ZCZC W02 3 L05 Quiz taking
+ZCZC W02 60 L05 Studying
