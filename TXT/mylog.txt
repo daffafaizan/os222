@@ -32,3 +32,6 @@ ZCZC W02 45 L13 Finishing Assignment #3
 ZCZC W02 30 L05 Studying
 ZCZC W02 3 L05 Quiz taking
 ZCZC W02 60 L05 Studying
+ZCZC W03 100 L02 Zoom Meetings
+ZCZC W03 30 L01 SCELE checking
+ZCZC W03 30 L05 Reading slides
