@@ -37,3 +37,5 @@ ZCZC W03 30 L01 SCELE checking
 ZCZC W03 30 L05 Reading slides
 ZCZC W03 120 L02 Zoom Meetings/Class
 ZCZC W03 30 L13 Finishing Assignment #3
+ZCZC W03 15 L04 Updating links on my GitHub page
+ZCZC W03 30 L09 Encrypting daffafaizan.txt
