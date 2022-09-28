@@ -40,5 +40,8 @@ ZCZC W03 30 L13 Finishing Assignment #3
 ZCZC W03 15 L04 Updating links on my GitHub page
 ZCZC W03 30 L09 Encrypting daffafaizan.txt
 ZCZC W03 30 L13 Fixing Assignment #3
-ZCZC W03 30 L01 SCELE checking
-ZCZC W03 30 L14 Finishing Assignment #4
+ZCZC W04 30 L01 SCELE checking
+ZCZC W04 110 L02 Zoom Meetings/Class
+ZCZC W04 30 L14 Finishing Assignment #4
+ZCZC W04 120 L70 Studying other courses
+ZCZC W04 30 L14 Checking Assignment #4
