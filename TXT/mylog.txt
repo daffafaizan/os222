@@ -45,3 +45,5 @@ ZCZC W04 110 L02 Zoom Meetings/Class
 ZCZC W04 30 L14 Finishing Assignment #4
 ZCZC W04 120 L70 Studying other courses
 ZCZC W04 30 L14 Checking Assignment #4
+ZCZC W04 120 L02 Zoom Meetings/Class
+ZCZC W04 120 L70 Studying for other courses
