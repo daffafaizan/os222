@@ -44,6 +44,16 @@ The creator provides the necessary skills and knowledge needed to help someone e
 
 3. [Cyber Threat Intelligence Explained](https://www.youtube.com/watch?v=qp8ZEyUURiw)<br>
 Explanations regarding the threats on intelligence in the field of cybersecurity.
+
+## Week 04
+1. [Compressing and Archiving Files in the Linux Console](https://www.youtube.com/watch?v=d4PAEbHcLVg)<br>
+Explanations regarding different types of compression tools and archiving files including directories in Linux. Examples such as tar, xz, bzip, and zip to extract and create compressed files are explained.
+
+2. [Writing and Running C Programs in Linux](https://vitux.com/how-to-write-and-run-a-c-program-in-linux/)<br>
+The site serves us the foundation of compiling and running a simple C program on Ubuntu Linux. The knowledge given will be useful to move on to more complicated and useful C programs.
+
+3. [Running Linux on Old Machines](https://www.makeuseof.com/why-install-linux-old-computer/)<br>
+As someone who will be using old machines in the future, this link will come in handy.
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
