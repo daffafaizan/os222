@@ -50,3 +50,7 @@ ZCZC W04 120 L70 Studying for other courses
 ZCZC W04 150 L21 Trying something
 ZCZC W04 60 L32 Watching OS related topics
 ZCZC W04 15 L40 TXT related
+ZCZC W04 70 L32 Watching OS related topics
+ZCZC W04 15 L40 TXT related activities
+ZCZC W04 70 L00 General, etc.
+ZCZC W04 180 L70 Studying other courses
