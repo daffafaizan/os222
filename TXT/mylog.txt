@@ -54,3 +54,5 @@ ZCZC W04 70 L32 Watching OS related topics
 ZCZC W04 15 L40 TXT related activities
 ZCZC W04 70 L00 General, etc.
 ZCZC W04 180 L70 Studying other courses
+ZCZC W05 120 L02 Zoom Meetings/Class
+ZCZC W05 150 L70 Studying other courses
