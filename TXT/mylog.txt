@@ -56,3 +56,11 @@ ZCZC W04 70 L00 General, etc.
 ZCZC W04 180 L70 Studying other courses
 ZCZC W05 120 L02 Zoom Meetings/Class
 ZCZC W05 150 L70 Studying other courses
+ZCZC W05 120 L02 Zoom Meetings/Class
+ZCZC W05 60 L32 Watching OS related videos
+ZCZC W05 80 L15 Finishing Assignment #5
+ZCZC W05 100 L05 Studying OS
+ZCZC W05 60 L05 Studying before Thursday's Quiz
+ZCZC W05 5 L05 Quiz
+ZCZC W05 150 L05 Studying before Friday's Quiz
+ZCZC W05 3 L05 Quiz
