@@ -54,6 +54,16 @@ The site serves us the foundation of compiling and running a simple C program on
 
 3. [Running Linux on Old Machines](https://www.makeuseof.com/why-install-linux-old-computer/)<br>
 As someone who will be using old machines in the future, this link will come in handy.
+
+## Week 05
+1. [Why use Virtual Machines?](https://www.youtube.com/watch?v=yHT4kq36PE4)<br>
+For computer scientists, ethical hackers, or even an average computer user, knowledge about virtual machines should be learned. It is quite important.
+
+2. [Hacking Google](https://www.youtube.com/watch?v=N7N4EC20-cM)<br>
+A video showing the cybersecurity team in Google and what they do and what they deal with regarding cybersecurity.
+
+3. [What are Demand Paging and Pre-paging?](https://www.javatpoint.com/what-are-demand-paging-and-pre-paging)<br>
+As concepts of virtual memory in the operating system, it is essential to know about Demand and Pre-paging. This page explains those concepts in short but detail.
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
