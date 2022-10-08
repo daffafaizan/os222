@@ -66,3 +66,5 @@ ZCZC W05 150 L05 Studying before Friday's Quiz
 ZCZC W05 3 L05 Quiz
 ZCZC W05 60 L15 Finishing Assignment #5
 ZCZC W05 120 L32 Watching OS related videos
+ZCZC W05 100 L31 Installed Kali Linux
+ZCZC W05 140 L31 Configured Kali Linux
