@@ -64,3 +64,5 @@ ZCZC W05 60 L05 Studying before Thursday's Quiz
 ZCZC W05 5 L05 Quiz
 ZCZC W05 150 L05 Studying before Friday's Quiz
 ZCZC W05 3 L05 Quiz
+ZCZC W05 60 L15 Finishing Assignment #5
+ZCZC W05 120 L32 Watching OS related videos
