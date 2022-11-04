@@ -69,3 +69,13 @@ ZCZC W05 120 L32 Watching OS related videos
 ZCZC W05 100 L31 Installed Kali Linux
 ZCZC W05 140 L31 Configured Kali Linux
 ZCZC W05 20 L00 General, etc.
+ZCZC W06 120 L02 Zoom Meetings/Class
+ZCZC W06 120 L02 Zoom Meetings/Class
+ZCZC W06 60 L00 General, etc.
+ZCZC W06 70 L16 Finishing Assignment #6
+ZCZC W06 30 L40 TXT related activities
+ZCZC W06 60 L32 Watching OS related videos
+ZCZC W06 60 L05 Studying before Thursday's Quiz
+ZCZC W06 5 L05 Quiz
+ZCZC W06 150 L05 Studying before Friday's Quiz
+ZCZC W06 3 L05 Quiz
