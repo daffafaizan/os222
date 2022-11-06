@@ -79,3 +79,6 @@ ZCZC W06 60 L05 Studying before Thursday's Quiz
 ZCZC W06 5 L05 Quiz
 ZCZC W06 150 L05 Studying before Friday's Quiz
 ZCZC W06 3 L05 Quiz
+ZCZC W06 60 L05 Finishing POP QUIZ
+ZCZC W06 120 L29 Bought a Lenovo Thinkpad X230 and tinkered it
+ZCZC W06 240 L63 Fixing a stuck pixel on the X230
