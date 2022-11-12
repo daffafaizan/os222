@@ -82,3 +82,14 @@ ZCZC W06 3 L05 Quiz
 ZCZC W06 60 L05 Finishing POP QUIZ
 ZCZC W06 120 L29 Bought a Lenovo Thinkpad X230 and tinkered it
 ZCZC W06 240 L63 Fixing a stuck pixel on the X230
+ZCZC W07 150 L02 Zoom Meetings/Class
+ZCZC W07 150 L02 Zoom Meetings/Class
+ZCZC W07 120 L05 Studying before Thursday's Quiz
+ZCZC W07 5 L05 Quiz
+ZCZC W07 150 L05 Studying before Friday's Quiz
+ZCZC W07 3 L05 Quiz
+ZCZC W07 160 L09 Fixing Week 6 Assignment
+ZCZC W07 200 L17 Finishing Assignment #7
+ZCZC W07 60 L03 GitHub related
+ZCZC W07 80 L32 Watching OS related videos
+ZCZC W07 150 L01 SCELE/Discord related
