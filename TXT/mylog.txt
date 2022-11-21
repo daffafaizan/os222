@@ -98,5 +98,7 @@ ZCZC W08 150 L02 Zoom Meetings/Class
 ZCZC W08 120 L05 Studying for Quiz
 ZCZC W08 240 L32 Watching OS related videos for assignment
 ZCZC W08 160 L18 Finishing Assignment #8
+ZCZC W08 150 L05 Trying POP QUIZ
 ZCZC W08 30 L03 GitHub related
 ZCZC W08 60 L00 General, etc.
+ZCZC W08 40 L05 Finishing POP QUIZ
