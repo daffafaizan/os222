@@ -93,3 +93,10 @@ ZCZC W07 200 L17 Finishing Assignment #7
 ZCZC W07 60 L03 GitHub related
 ZCZC W07 80 L32 Watching OS related videos
 ZCZC W07 150 L01 SCELE/Discord related
+ZCZC W08 150 L02 Zoom Meetings/Class
+ZCZC W08 150 L02 Zoom Meetings/Class
+ZCZC W08 120 L05 Studying for Quiz
+ZCZC W08 240 L32 Watching OS related videos for assignment
+ZCZC W08 160 L18 Finishing Assignment #8
+ZCZC W08 30 L03 GitHub related
+ZCZC W08 60 L00 General, etc.
