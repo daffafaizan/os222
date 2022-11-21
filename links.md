@@ -64,6 +64,22 @@ A video showing the cybersecurity team in Google and what they do and what they 
 
 3. [What are Demand Paging and Pre-paging?](https://www.javatpoint.com/what-are-demand-paging-and-pre-paging)<br>
 As concepts of virtual memory in the operating system, it is essential to know about Demand and Pre-paging. This page explains those concepts in short but detail.
+
+## Week 06
+1. [Fork(), Exec(). and Vfork()](https://web.eecs.edu/~mbeck/classes/Fall21-cs361/vfork.pdf)<br>
+Brief notes on memory operations.
+
+## Week 07
+1. [What is a shared memory?](https://www.csl.mtu.edu/cs4411.ck/www/NOTES/process/shm/what-is-shm.html)<br>
+Explanation on what exactly is a shared memory. It is an extra piece of memory that is attached to some address spaces for their users to use.
+
+## Week 08
+1. [Linux From Scratch Walkthrough](https://youtu.be/0EwMnskxIZM)<br>
+Kernotex gives a thorough walkthrough and explanation on how to install Linux From Scratch from the website.
+
+2. [Real, User, and Sys](https://stackoverflow.com/a/2734965)<br>
+The user "lensovet" gives a short answer regarding the differences between real, user, and sys.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
