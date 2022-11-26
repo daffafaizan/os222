@@ -80,6 +80,10 @@ Kernotex gives a thorough walkthrough and explanation on how to install Linux Fr
 2. [Real, User, and Sys](https://stackoverflow.com/a/2734965)<br>
 The user "lensovet" gives a short answer regarding the differences between real, user, and sys.
 
+## Week 09
+1. [LFS: Proyek Membuat Distro Linux Sendiri](https://blog.desdelinux.net/id/linux-dari-awal-lfs-pembuatan-proyek-distro-linux/)<br>
+Although there are many Linux flavors and distros out there, there is really no single one that suits all your needs. LFS guides you to make your perfect distro.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
