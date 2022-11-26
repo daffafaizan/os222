@@ -105,12 +105,13 @@ ZCZC W08 40 L05 Finishing POP QUIZ
 ZCZC W09 150 L02 Zoom Meetings/Class
 ZCZC W09 150 L02 Zoom Meetings/Class
 ZCZC W09 360 L32 Watching OS related videos
-ZCZC W09 240 L19 Starting and finishing Assignment #8
+ZCZC W09 240 L19 Starting and finishing Assignment #9
 ZCZC W09 120 L00 General, etc.
 ZCZC W09 60 L03 GitHub related
 ZCZC W09 120 L05 Studying for quiz
 ZCZC W09 150 L01 SCELE/Discord related
-ZCZC W09 240 L19 Finishing Assignment #8
-ZCZC W09 360 L19 Redoing Assignment #8
+ZCZC W09 240 L19 Finishing Assignment #9
+ZCZC W09 360 L19 Redoing Assignment #9
 ZCZC W09 30 L03 GitHub related
-ZCZC W09 60 L19 Backing up Assignment #8
+ZCZC W09 60 L19 Backing up Assignment #9
+ZCZC W09 60 L19 Fixed Assignment #9
